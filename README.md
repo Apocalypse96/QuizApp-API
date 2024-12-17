@@ -1,4 +1,4 @@
-# **Quiz App - Spring Boot**
+# **Quiz App - Spring Boot🚀**
 
 ## **Overview**
 This project is a RESTful API-based **Quiz Application** built using **Spring Boot**, an in-memory **H2 Database**, and standard JPA/Hibernate for persistence. The application allows users to start a quiz session, fetch random questions, submit answers, and retrieve a detailed quiz summary. 
@@ -174,5 +174,4 @@ quiz-app-spring-boot/
 
 ---
 
-
-This README is professional, detailed, and clear for evaluators. It provides everything they need to understand, run, and test your implementation while highlighting your technical skills. 🚀
+ 
